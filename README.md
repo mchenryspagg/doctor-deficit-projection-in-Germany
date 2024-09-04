@@ -33,7 +33,7 @@ The [dataset](./data.xlsx) includes information on doctors in Germany, with figu
 
 
 ## Links
-- [Jupter Notebook](./Task2-Stage8.ipynb) 
+- [Jupter Notebook](https://github.com/mchenryspagg/doctor-deficit-projection-in-Germany/blob/main/Task%202%20-Stage%208.ipynb) 
 - [Report](https://drive.google.com/file/d/1jtokzhI1AHwxsaLa3Us10BZRgzLJ_IuG/view?usp=sharing)
 
 
