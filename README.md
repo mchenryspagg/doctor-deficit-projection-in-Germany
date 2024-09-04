@@ -22,7 +22,7 @@ The project dives into analyzing the projected doctor deficit in Germany over th
 
 
 ## Data Collection
-The [dataset](./data) includes information on doctors in Germany, with figures on practicing doctors, retirement age, labor force, population, age distribution, and medical graduates. Key data ranges from 1960 to 2070, covering percentages, projections, and numbers. A few of the data sources had established research analysis with projected figures for some of the key variables such as mean retirement age.
+The [dataset](./data.xlsx) includes information on doctors in Germany, with figures on practicing doctors, retirement age, labor force, population, age distribution, and medical graduates. Key data ranges from 1960 to 2070, covering percentages, projections, and numbers. A few of the data sources had established research analysis with projected figures for some of the key variables such as mean retirement age.
 
 
 ## Data Sources
@@ -33,7 +33,7 @@ The [dataset](./data) includes information on doctors in Germany, with figures o
 
 
 ## Links
-- [Jupter Notebook](./Task2-Stage8) 
+- [Jupter Notebook](./Task2-Stage8.ipynb) 
 - [Report](https://drive.google.com/file/d/1jtokzhI1AHwxsaLa3Us10BZRgzLJ_IuG/view?usp=sharing)
 
 
